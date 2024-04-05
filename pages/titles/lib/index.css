@@ -1199,6 +1199,6 @@ a {
 
     /* fica à frente dos elementos */
 
-    z-index: 2;
+    z-index: 999;
 
 }
