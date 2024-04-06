@@ -4,6 +4,9 @@ Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial
 
 Marque esse projeto com uma estrela 🌟
 
+## Demo
+Para visualizar uma demonstração do projeto final [clique aqui](https://igor2502.github.io/Semana-JS-Expert-7.0/).
+
 ## Preview
 <img width=100% src="./assets/demo-template-lg.gif">
 
